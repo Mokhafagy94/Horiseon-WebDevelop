@@ -1,2 +1,2 @@
-# Horiseon-WebPage
+# Horiseon-webpage
 
